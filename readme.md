@@ -1,16 +1,12 @@
-# Three.js Journey
+# Haunted House 
+![screenshot](./static/screenshot.png)
 
-## Setup
-Download [Node.js](https://nodejs.org/en/download/).
-Run this followed commands:
+This is a mini project to learn how to deal with basic modeling components in Three.js:
+- Texture
+- Material
+- Geometry
+- Lights
+... and etc
 
-``` bash
-# Install dependencies (only the first time)
-npm install
+Big shout out to https://threejs-journey.com/ !
 
-# Run the local server at localhost:8080
-npm run dev
-
-# Build for production in the dist/ directory
-npm run build
-```
